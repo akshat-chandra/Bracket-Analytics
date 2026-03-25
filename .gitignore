@@ -1,0 +1,23 @@
+# dbt
+target/
+dbt_packages/
+logs/
+
+# DuckDB database file (generated, not source code)
+*.duckdb
+*.duckdb.wal
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Raw data (too large for git)
+data/raw/
+
+# Claude
+.claude/
+
+# Mac
+.DS_Store

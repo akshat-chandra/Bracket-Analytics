@@ -1,6 +1,10 @@
-# March Madness Analytics
+# BracketAnalytics
 
-A data pipeline and analytics dashboard built with dbt and DuckDB, analyzing 24 years of NCAA Tournament data (2002–2026).
+**Built with:** dbt · DuckDB · Streamlit · Python
+
+📹 [Watch the demo](https://drive.google.com/file/d/1D_bk0s0XzGSi_I-ip7Deb0p96dw9UbqN/view?usp=drive_link)
+
+A data pipeline and analytics dashboard analyzing 24 years of NCAA Tournament data (2002–2026).
 
 ## What It Does
 
